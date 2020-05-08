@@ -1,4 +1,4 @@
-<div style="text-align:center">![](https://raw.githubusercontent.com/gabrielmnzs/be-the-hero/6de0fd5b7090f08fffc5b137e6d3055dbb48d2a6/frontend/src/assets/logo.svg)</div>
+![](https://raw.githubusercontent.com/gabrielmnzs/be-the-hero/6de0fd5b7090f08fffc5b137e6d3055dbb48d2a6/frontend/src/assets/logo.svg)
 
 O Be The Hero é o projeto da 11ª edição da Semana OmniStack da Rocketseat, com o objetivo de construir um aplicativo que conecta ONG's e outras instituições a pessoas que tem interesse em ajudar.
 
